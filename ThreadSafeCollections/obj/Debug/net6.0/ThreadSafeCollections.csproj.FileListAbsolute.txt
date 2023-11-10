@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ThreadSafeCollections\ThreadSafeCollections\bin\Debug\net6.0\ThreadSafeCollections.exe
+C:\Users\user\source\repos\ThreadSafeCollections\ThreadSafeCollections\bin\Debug\net6.0\ThreadSafeCollections.deps.json
+C:\Users\user\source\repos\ThreadSafeCollections\ThreadSafeCollections\bin\Debug\net6.0\ThreadSafeCollections.runtimeconfig.json
+C:\Users\user\source\repos\ThreadSafeCollections\ThreadSafeCollections\bin\Debug\net6.0\ThreadSafeCollections.dll
+C:\Users\user\source\repos\ThreadSafeCollections\ThreadSafeCollections\bin\Debug\net6.0\ThreadSafeCollections.pdb
+C:\Users\user\source\repos\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\net6.0\ThreadSafeCollections.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\net6.0\ThreadSafeCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\net6.0\ThreadSafeCollections.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\net6.0\ThreadSafeCollections.AssemblyInfo.cs
+C:\Users\user\source\repos\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\net6.0\ThreadSafeCollections.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\net6.0\ThreadSafeCollections.dll
+C:\Users\user\source\repos\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\net6.0\refint\ThreadSafeCollections.dll
+C:\Users\user\source\repos\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\net6.0\ThreadSafeCollections.pdb
+C:\Users\user\source\repos\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\net6.0\ThreadSafeCollections.genruntimeconfig.cache
+C:\Users\user\source\repos\ThreadSafeCollections\ThreadSafeCollections\obj\Debug\net6.0\ref\ThreadSafeCollections.dll
